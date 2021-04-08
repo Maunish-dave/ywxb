@@ -54,4 +54,8 @@ verbose will print train and test accuracy.
                   lr=config['lr'],
                   momentum=config['momentum'],
                   batch_size=config['batch_size'],
-                  verbose=config['verbose'])`
+                  verbose=config['verbose'])
+ 
+ **This Library is under progress, new features will be added soon.**
+                  
+   
