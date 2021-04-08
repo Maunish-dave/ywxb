@@ -57,6 +57,7 @@ verbose will print train and test accuracy.
                   verbose=config['verbose'])
                   
  Output:
+ 
     Iteration 0 : Train Accuracy: 0.569 | Train Loss: 0.884 | Test Accuracy: 0.562 | Test Loss: 0.873 | Epoch Time: 0.02s
     Iteration 50 : Train Accuracy: 0.643 | Train Loss: 0.827 | Test Accuracy: 0.646 | Test Loss: 0.816 | Epoch Time: 0.02s
     Iteration 100 : Train Accuracy: 0.726 | Train Loss: 0.746 | Test Accuracy: 0.739 | Test Loss: 0.736 | Epoch Time: 0.02s
