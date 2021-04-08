@@ -55,6 +55,18 @@ verbose will print train and test accuracy.
                   momentum=config['momentum'],
                   batch_size=config['batch_size'],
                   verbose=config['verbose'])
+                  
+ Output:
+    Iteration 0 : Train Accuracy: 0.569 | Train Loss: 0.884 | Test Accuracy: 0.562 | Test Loss: 0.873 | Epoch Time: 0.02s
+    Iteration 50 : Train Accuracy: 0.643 | Train Loss: 0.827 | Test Accuracy: 0.646 | Test Loss: 0.816 | Epoch Time: 0.02s
+    Iteration 100 : Train Accuracy: 0.726 | Train Loss: 0.746 | Test Accuracy: 0.739 | Test Loss: 0.736 | Epoch Time: 0.02s
+    Iteration 150 : Train Accuracy: 0.780 | Train Loss: 0.663 | Test Accuracy: 0.792 | Test Loss: 0.653 | Epoch Time: 0.02s
+    Iteration 200 : Train Accuracy: 0.810 | Train Loss: 0.586 | Test Accuracy: 0.815 | Test Loss: 0.577 | Epoch Time: 0.02s
+    Iteration 250 : Train Accuracy: 0.823 | Train Loss: 0.519 | Test Accuracy: 0.830 | Test Loss: 0.511 | Epoch Time: 0.02s
+    Iteration 300 : Train Accuracy: 0.839 | Train Loss: 0.458 | Test Accuracy: 0.848 | Test Loss: 0.451 | Epoch Time: 0.02s
+    Iteration 350 : Train Accuracy: 0.852 | Train Loss: 0.406 | Test Accuracy: 0.855 | Test Loss: 0.401 | Epoch Time: 0.02s
+    Iteration 400 : Train Accuracy: 0.861 | Train Loss: 0.366 | Test Accuracy: 0.865 | Test Loss: 0.362 | Epoch Time: 0.02s
+    Iteration 450 : Train Accuracy: 0.865 | Train Loss: 0.338 | Test Accuracy: 0.867 | Test Loss: 0.336 | Epoch Time: 0.03s
  
  **This Library is under progress, new features will be added soon.**
                   
