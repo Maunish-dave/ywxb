@@ -3,7 +3,11 @@ This repository my implementation of deep neural networks using numpy.
 
 It allows you to use fully connected Neural Netowrk with Many options for Optimizers and Activation Functions
 
-Here is an example of how to use dumpy.
+Here is an example of how to use ywxb.
+
+first you need to install ywxb.
+
+`pip install ywxb`
 
 You only need to import train function from dumpy.
 
