@@ -9,7 +9,7 @@ first you need to install ywxb.
 
 `pip install ywxb`
 
-You only need to import train function from dumpy.
+You only need to import train function from ywxb.
 
 ```python
 from ywxb.train import  train
